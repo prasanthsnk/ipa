@@ -21,7 +21,7 @@
                 <key>bundle-version</key>
                 <string>1.2.2</string>
                 <key>kind</key>
-                <string>app</string>
+                <string>software</string>
                 <key>title</key>
                 <string>dxapp 1.2.2</string>
             </dict>
